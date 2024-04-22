@@ -5,7 +5,6 @@ Simple ecommerce website made with React Hooks and Redux.
 ## Demo and Codesandbox
 
 - Live demo is available here: **[Demo](https://nemanjam.github.io/redux-ecommerce)**
-- Codesandbox is available here: **[Codesandbox](https://codesandbox.io/s/github/nemanjam/redux-ecommerce)**
 
 ## Features
 
